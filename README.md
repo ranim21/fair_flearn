@@ -7,7 +7,13 @@ This repository contains the code and experiments for the paper:
 > 
 > [ICLR '20](https://iclr.cc/)
 
- 
+ You will work on the ReadMe.
+We'll do the same for the fjord.
+Also, don't forget to put the steps you've done, not these general ones:
+- download vehicle dataset; How?
+- used the custom comman
+- the screen shot you saved
+- your interpretations? on round it seems to lose accuracy why? read more about the paper approach.
 
 ## Preparation
 
